@@ -97,7 +97,7 @@ As I continue learning, I plan to:
 
 ## 👨‍💻 Author
 
-**Bala Krishna**  
+**Kasarap Lokesh**  
 Cyber Security Learner  
 
 ---
